@@ -5,8 +5,8 @@
 ============================================================
 APK NAME                          Fine Art Library
 APK TYPE                          Library
-APK LANGUAGE	                  java
-YEAR OF                           2020
+APK LANGUAGE	                    java
+YEAR OF                           2021
 WRITTEN BY                        Andrei Abd
 CODER NAME                        X
 WORKING DIRECTORY                 com.fineartlibrary
@@ -37,5 +37,5 @@ Instagram :  https://www.instagram.com/andrei_abd/
 Linkeden  :  https://www.linkedin.com/in/andreiabd
 Facebook  :  https://www.facebook.com/andreiaabd/
 ============================================================
-ALL (c)2020 - CODERX - ANDREI ABD
+ALL (c)2021 - CODERX - ANDREI ABD
 ============================================================
